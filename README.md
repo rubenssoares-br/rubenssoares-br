@@ -2,7 +2,7 @@
  
 - 💻   Studying to be a Full Stack
 - ♣️  Other areas of interest: hacking/pentest and networking
-
+- ♟️ 17 years old
 
 <div align="center">
   <a href="https://github.com/rubenssoares-br">
@@ -17,4 +17,10 @@
 <div align="center"> 
  <a href = "mailto:rubensruanbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/gtm3gdzx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+ 
+ ![Snake animation](https://github.com/rubenssoares-br/rubenssoares-br/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+ 
  </div>
