@@ -1,4 +1,4 @@
-### Sobre mim:
+### About me:
  
 - 💻   Studying to be a Full Stack
 - ♣️  Other areas of interest: hacking/pentest and networking
