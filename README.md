@@ -2,7 +2,7 @@
  
 - 💻   Studying to be a Full Stack
 - ♣️  Other areas of interest: hacking/pentest and networking
-- ♟️ 17 years old
+- ♟️ 18 years old
 
 <div align="center">
   <a href="https://github.com/rubenssoares-br">
