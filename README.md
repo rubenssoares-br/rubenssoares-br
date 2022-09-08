@@ -21,4 +21,3 @@
  
  </div>
  
- ![Snake animation](https://github.com/rubenssoares-br/rubenssoares-br/blob/output/github-contribution-grid-snake.svg)
