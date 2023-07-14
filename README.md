@@ -4,8 +4,8 @@
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Name: Rubens Soares \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Age: 19y \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working as a Freelancer \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Love for science, innovation and ethical hacking
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying at Soli Deo Gloria project \
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying nformation security in free time
 
 
 
