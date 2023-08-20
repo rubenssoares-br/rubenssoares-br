@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Name: Rubens Soares \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Age: 19y \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying at Soli Deo Gloria project \
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working as an Associate Tester at liferay \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying information security in free time
 
 
